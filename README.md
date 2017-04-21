@@ -38,4 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 **coucou c'est moi**
-(https://public.tableau.com/profile/aubineau7053#!/vizhome/MOOCTrinityXT005xstudentsenrollement2017March6/Tableaudebord1)
+-List
+1 ab
+2 bc
+[https://public.tableau.com/profile/aubineau7053#!/vizhome/MOOCTrinityXT005xstudentsenrollement2017March6/Tableaudebord1]
